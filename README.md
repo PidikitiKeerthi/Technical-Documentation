@@ -1,2 +1,2 @@
 # Technical-Documentation
-This is a techinical documentation of Dr. Abdul Kalam
+I successfully crafted a technical documentation on Dr. Abdul Kalam utilizing my skills in HTML and CSS
